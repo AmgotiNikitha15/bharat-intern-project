@@ -1,5 +1,5 @@
 # SMS-CLASSIFIER
-SMS Classifier Data Science Project using Python
+SMS Classifier Machine Learning Project using Python
 
 1.INTRODUCTION :
 The project aims to develop a robust SMS classifier using data science techniques and Python programming. With the increasing volume of SMS messages, automating the process of classifying messages as spam or ham (non-spam) becomes crucial for effective communication. This project utilizes machine learning algorithms and natural language processing to achieve accurate and efficient SMS classification.
